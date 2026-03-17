@@ -24,6 +24,22 @@
 <br>
 
 <p align="center">
+  <img src="./assets/Noisy_Australia.gif" alt="Noisy Qatar" width="80%">
+  <br>
+  <sub><b>(c) Noisy Input: Qatar</b></sub>
+</p>
+
+<br>
+
+<p align="center">
+  <img src="./assets/VSDFormer_Australia.gif" alt="VSDFormer Qatar" width="80%">
+  <br>
+  <sub><b>(d) VSDFormer: Qatar</b></sub>
+</p>
+
+<br>
+
+<p align="center">
   <img src="./assets/Noisy_Qatar.gif" alt="Noisy Qatar" width="80%">
   <br>
   <sub><b>(c) Noisy Input: Qatar</b></sub>
