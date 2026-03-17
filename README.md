@@ -60,3 +60,10 @@
   </tr>
   
 </table>
+
+<br>
+
+> **Note:** The GIF files are compressed for visualization in the README, so the displayed quality may not fully reflect the actual restoration performance. For a more accurate comparison, please download and view the original videos.
+
+
+
