@@ -8,12 +8,12 @@
 
 <table align="center">
   <tr>
-    <td align="center" width="50%">
+    <td align="center" width="80%">
       <img src="./assets/Noisy_Eubank.gif" alt="Noisy Eubank" width="95%">
       <br>
       <sub><b>Noisy Eubank</b></sub>
     </td>
-    <td align="center" width="50%">
+    <td align="center" width="80%">
       <img src="./assets/VSDFormer_Eubank.gif" alt="VSDFormer Eubank" width="95%">
       <br>
       <sub><b>VSDFormer Eubank</b></sub>
