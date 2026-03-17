@@ -2,8 +2,6 @@
 
 **VSDFormer: A Spatio-Temporal Restoration Framework for Video SAR Despeckling**
 
-[Despecked Video](./Videos/Noisy_Australia.mp4)  [Despecked Video](./Videos/Noisy_Rotterdam.mp4)  [Despecked Video](./Videos/Noisy_Eubank.mp4)  [Despecked Video](./Videos/Noisy_Qatar.mp4)
-
 <br>
 
 ## Visual Results
@@ -65,7 +63,7 @@
 
 <br>
 
-> **Note:** The GIF files are compressed for visualization in the README, so the displayed quality may not fully reflect the actual restoration performance. For a more accurate comparison, please download and view the original videos.
+> **Note:** The GIF files are compressed for visualization in the README, so the displayed quality may not fully reflect the actual restoration performance. For a more accurate comparison, please download and view the original videos. [Despecked Video](./Videos/Noisy_Australia.mp4)
 
 
 
