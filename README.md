@@ -2,7 +2,7 @@
 
 **VSDFormer: A Spatio-Temporal Restoration Framework for Video SAR Despeckling**
 
-Full video:(./Videos/Noisy_Rotterdam.mp4)
+[Watch demo](./Videos/Noisy_Rotterdam.mp4)
 
 
 <br>
