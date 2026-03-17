@@ -11,12 +11,12 @@
     <td align="center" width="50%">
       <img src="./assets/Noisy_Eubank.gif" alt="Noisy Eubank" width="95%">
       <br>
-      <sub><b>(a) Noisy Input: Eubank</b></sub>
+      <sub><b>(a) Noisy_Eubank</b></sub>
     </td>
     <td align="center" width="50%">
       <img src="./assets/VSDFormer_Eubank.gif" alt="VSDFormer Eubank" width="95%">
       <br>
-      <sub><b>(b) VSDFormer: Eubank</b></sub>
+      <sub><b>(b) VSDFormer_Eubank</b></sub>
     </td>
   </tr>
 
@@ -24,12 +24,12 @@
     <td align="center" width="50%">
       <img src="./assets/Noisy_Qatar.gif" alt="Noisy Qatar" width="95%">
       <br>
-      <sub><b>(e) Noisy Input: Qatar</b></sub>
+      <sub><b>(e) Noisy_Qatar</b></sub>
     </td>
     <td align="center" width="50%">
       <img src="./assets/VSDFormer_Qatar.gif" alt="VSDFormer Qatar" width="95%">
       <br>
-      <sub><b>(f) VSDFormer: Qatar</b></sub>
+      <sub><b>(f) VSDFormer_Qatar</b></sub>
     </td>
   </tr>
 
@@ -37,12 +37,12 @@
     <td align="center" width="50%">
       <img src="./assets/Noisy_Rotterdam.gif" alt="Noisy Rotterdam" width="95%">
       <br>
-      <sub><b>(g) Noisy Input: Rotterdam</b></sub>
+      <sub><b>(g) Noisy_Rotterdam</b></sub>
     </td>
     <td align="center" width="50%">
       <img src="./assets/VSDFormer_Rotterdam.gif" alt="VSDFormer Rotterdam" width="95%">
       <br>
-      <sub><b>(h) VSDFormer: Rotterdam</b></sub>
+      <sub><b>(h) VSDForme_Rotterdam</b></sub>
     </td>
   </tr>
 
@@ -50,12 +50,12 @@
     <td align="center" width="50%">
       <img src="./assets/Noisy_Australia.gif" alt="Noisy Australia" width="95%">
       <br>
-      <sub><b>(c) Noisy Input: Australia</b></sub>
+      <sub><b>(c) Noisy_Australia</b></sub>
     </td>
     <td align="center" width="50%">
       <img src="./assets/VSDFormer_Australia.gif" alt="VSDFormer Australia" width="95%">
       <br>
-      <sub><b>(d) VSDFormer: Australia</b></sub>
+      <sub><b>(d) VSDFormer_Australia</b></sub>
     </td>
   </tr>
   
